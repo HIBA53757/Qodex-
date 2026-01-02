@@ -10,9 +10,10 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "sql local",
-            "database": "qodex",
-            "username": "root"
+            "name": "test",
+            "username": "root",
+            "database": "qodex_db",
+            "password": ""
         }
     ]
 }
